@@ -24,6 +24,7 @@
 
 ![Biome](https://img.shields.io/badge/Formatted_with-Biome-60a5fa?style=flat&logo=biome)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools
