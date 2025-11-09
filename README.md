@@ -1,65 +1,51 @@
-<!-- HEADER -->
 <div align="center">
+  <!-- SITE WRAPPER -->
+  <div style="
+    width: 900px;
+    margin: 40px auto;
+    border: 2px solid #444;
+    border-radius: 12px;
+    overflow: hidden;
+    background: #0f111a;
+    color: #e0e6f0;
+    font-family: Arial, sans-serif;
+  ">
+    
+    <!-- HEADER -->
+    <div style="
+      background: #1a1d2d;
+      padding: 25px;
+      font-size: 28px;
+      font-weight: bold;
+      color: #a855f7;
+      border-bottom: 2px solid #444;
+    ">
+      Welcome to My Space 👋
+    </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+I'm+Danylo+👋;Full+Stack+Developer;Clean+Code+Enthusiast" />
+    <!-- MAIN CONTENT -->
+    <div style="padding: 30px; font-size: 18px; text-align: left;">
+      <h2 style="color:#a855f7; margin-top: 0;">Main Content</h2>
+      <p>
+        This README is styled to look like a real website layout.
+        Here you can place anything: introduction, project list, links, buttons, images, etc.
+      </p>
 
-<br/>
+      <p style="padding:15px; border:1px solid #333; border-radius:6px;">
+        Example content block with border.
+      </p>
+    </div>
 
-### 🌍 Navigation
-[About](#-about-me) •
-[Tech Stack](#-tech-stack) •
-[Stats](#-github-stats) •
-[Contact](#-contact-me)
+    <!-- FOOTER -->
+    <div style="
+      background: #1a1d2d;
+      padding: 20px;
+      font-size: 14px;
+      border-top: 2px solid #444;
+      opacity: 0.8;
+    ">
+      © 2025 Your Name — Footer Section
+    </div>
 
-</div>
-
-<hr/>
-
-<!-- MAIN CONTENT -->
-## 🚀 About Me
-Я — розробник з України, люблю чистий код, архітектуру та сучасні фреймворки.  
-Завжди вчуся і розвиваюся.
-
-- 💻 Full Stack Developer
-- 🌱 Вивчаю distributed systems, caching, clean architecture
-- ⚡ Мета — робити продукти, якими реально користуються
-
-<hr/>
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-| Category | Tech |
-|--------|------|
-| **Languages** | Java, TypeScript, JavaScript, HTML, CSS |
-| **Frontend** | React, Next.js |
-| **Backend** | Node.js, Express, Redis, PostgreSQL |
-| **Tools** | Git, Docker, VS Code, IntelliJ |
-
-</div>
-
-<hr/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Galyckyj&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galyckyj&layout=compact&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Galyckyj&theme=tokyonight"/>
-</div>
-
-<hr/>
-
-<!-- FOOTER -->
-## 📫 Contact Me
-<div align="center">
-
-[Telegram](https://t.me/your-username) •
-[LinkedIn](https://linkedin.com/in/your-profile) •
-[Portfolio](https://your-portfolio.com)
-
-<br/><br/>
-**© 2025 Danylo — Made with ❤️**
+  </div>
 </div>
